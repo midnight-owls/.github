@@ -1,5 +1,4 @@
 # Midnight Owls
-
 A group of IT students from the Polytechnic University of the Philippines, dedicated to web development projects and hands-on learning.
 
 ## Our Mission

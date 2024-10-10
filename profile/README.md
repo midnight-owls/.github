@@ -1,9 +1,6 @@
 # Midnight Owls
 A group of IT students from the Polytechnic University of the Philippines, dedicated to web development projects and hands-on learning.
 
-## Our Mission
-To enhance our skills in web development through practical projects and collaboration.
-
 ## Projects
 - **W3Schools Clone**: A project aimed at recreating the [W3Schools homepage](https://www.w3schools.com/).
 

@@ -17,6 +17,7 @@
 
 ## :sparkles: Members
 
+- &nbsp;[Kobe Fajardo](https://github.com/Kobeszkie) &emsp;&emsp;&ensp; &gt; &emsp; Project Lead
 - &nbsp;[Von Defuntorum](https://github.com/Hisuiiii) &emsp; &gt; &emsp; Development Lead
 - &nbsp;[Jesse Mirabel](https://github.com/sejjy) &emsp;&emsp;&ensp; &gt; &emsp; Design Lead
 - &nbsp;[Raven Dela Cruz](https://github.com/RNCDC) &emsp;&nbsp; &gt; &emsp; Quality Lead

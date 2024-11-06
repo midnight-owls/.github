@@ -5,7 +5,7 @@
 ## :rocket: Projects
 
 1. &nbsp;**w3schools-clone**  
-   `[ fin ]:` A [W3Schools](https://www.w3schools.com/) home page clone, written in basic HTML and CSS.
+   `[ fin ]:` A [W3Schools](https://www.w3schools.com/) homepage clone, written in basic HTML and CSS.
 
 2. &nbsp;**eli-coffee**  
    `[ on ]:` A front-end only website created for [ELI Coffee](https://www.instagram.com/elicoffeeph/) using Bootstrap.

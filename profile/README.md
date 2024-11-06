@@ -17,30 +17,7 @@
 
 ## :sparkles: Members
 
-<ul style="list-style-type: square">
-  <li>
-    <a href="https://github.com/Kobeszkie">Kobe Fajardo</a>
-    <span style="margin: 0 1em 0 3em">&gt;</span>
-    Project Lead
-  </li>
-  <li>
-    <a href="https://github.com/Hisuiiii">Von Defuntorum</a>
-    <span style="margin: 0 1em 0 1.4em">&gt;</span>
-    Development Lead
-  </li>
-  <li>
-    <a href="https://github.com/sejjy">Jesse Mirabel</a>
-    <span style="margin: 0 1em 0 2.9em">&gt;</span>
-    Design Lead
-  </li>
-  <li>
-    <a href="https://github.com/RNCDC">Raven Dela Cruz</a>
-    <span style="margin: 0 1em 0 1.6em">&gt;</span>
-    Quality Lead
-  </li>
-  <li>
-    <a href="https://github.com/CrisDaniel02">Cris Ecalne</a>
-    <span style="margin: 0 1em 0 4.1em">&gt;</span>
-    Analyst
-  </li>
-</ul>
+- &nbsp;[Von Defuntorum](https://github.com/Hisuiiii) &emsp; &gt; &emsp; Development Lead
+- &nbsp;[Jesse Mirabel](https://github.com/sejjy) &emsp;&emsp;&ensp; &gt; &emsp; Design Lead
+- &nbsp;[Raven Dela Cruz](https://github.com/RNCDC) &emsp;&nbsp; &gt; &emsp; Quality Lead
+- &nbsp;[Cris Ecalne](https://github.com/CrisDaniel02) &emsp;&emsp;&emsp;&ensp;&nbsp; &gt; &emsp; Analyst

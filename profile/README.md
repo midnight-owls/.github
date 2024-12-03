@@ -1,19 +1,19 @@
 # Midnight Owls `o,o`
 
-&mdash; A group of IT students from the Polytechnic University of the Philippines, dedicated to web development and hands-on learning.
+&mdash;A group of IT students from Polytechnic University of the Philippines, dedicated to web development and hands-on learning.
 
 ## :rocket: Projects
 
 1. &nbsp;**w3schools-clone**  
-   `[ fin ]:` A clone of the [W3Schools homepage](https://www.w3schools.com/), written in basic HTML and CSS.
+   `[ fi ]:` A clone of the [W3Schools homepage](https://www.w3schools.com/), written in basic HTML and CSS.
 
 2. &nbsp;**eli-coffee**  
-   `[ on ]:` A front-end only website created for [ELI Coffee](https://www.instagram.com/elicoffeeph/) using Bootstrap.
+   `[ uf ]:` A front-end-only website created for [ELI Coffee](https://www.instagram.com/elicoffeeph/) using Bootstrap.
 
-3. &nbsp;**unnamed**  
-   `[ up ]:` A fully-functional website created for [ELI Coffee](https://www.instagram.com/elicoffeeph/) using React and Node.js.
+3. &nbsp;...  
+   `[ up ]:` A fully-functional website created for [ELI Coffee](https://www.instagram.com/elicoffeeph/) using _ and _.
 
-> _fin - finished, uf - unfinished, on - ongoing, up - upcoming_
+> _fi - finished, uf - unfinished, up - upcoming_
 
 ## :sparkles: Members
 
